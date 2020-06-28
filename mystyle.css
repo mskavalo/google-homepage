@@ -1,0 +1,92 @@
+body {
+ background-color: #fff;
+ max-width: 100%;
+ height: 100%;
+ display: block;
+ font-family: arial,sans-serif;
+ font-size: small;
+ 
+  }  
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.main {
+  display: inherit;  
+  text-align: center;
+  padding: 100px;
+}
+ 
+input {
+  display: block;
+  border-radius: 1.5em;
+  width: 28em;
+  margin: 2em; 
+  padding: 10px;
+  outline: none;
+  
+}
+
+.nav a{  
+   text-decoration: none;
+   float: left;
+   padding: 10px 12px;
+   color: black;  
+   margin-left: 15px;
+  }
+ 
+.nav-right {
+  float: right;
+  margin-right: 20px;
+}
+  
+.signin {
+  background-color:  #4c8bf5;
+  color: white;
+  padding: 8px 18px;
+  font-size: inherit;
+  margin: 2px;
+  border: none;
+  outline: inherit;
+  
+  } 
+  
+  button
+   {
+    padding: 8px;
+    margin-right: 10px ;
+    outline: none;
+    
+  }
+
+.translation {
+  padding: 20px;
+}
+a {
+  text-decoration: none;
+}
+.country { 
+  display: flex; 
+  padding: 10px;
+  margin-left:15px;
+  
+}
+
+.footer {
+  position: fixed;  
+  bottom: 0;
+  width: 100%;
+  background-color: #ebe7e7;
+  color: black;
+  left: 0;
+  line-height: 30px;
+  }
+
+
+  
+
+
+
+
+
