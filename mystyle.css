@@ -1,6 +1,5 @@
 body {
  background-color: #fff;
-<<<<<<< HEAD
  max-width: 100%;
  height: 100%;
  display: block;
@@ -25,32 +24,10 @@ input {
   width: 28em;
   margin: 2em; 
   padding: 10px;
-=======
- width: 100%;
- margin: 0;
- padding: 0;
- display: block;
- height: 100%;
- 
- } 
-
-form { 
-  padding: 0;
-  margin: 10px;
-
-}
-input {
-  border-radius: 4em;
-  width: 35%;
-  font-size: 15px;
-  padding: 10px;
-  border: 1px solid #d2d2d2;
->>>>>>> 4dfd868efbaa281bba98f7ba67ed992e91d90b59
   outline: none;
   
 }
 
-<<<<<<< HEAD
 .nav a{  
    text-decoration: none;
    float: left;
@@ -113,88 +90,3 @@ a {
 
 
 
-=======
-.main {
-  text-align: center;  
-  padding: 7em;
-  
-}
-
-.button1 {
-  border: none;
-  background-color: #4c8bf5;
-  font-size: 15px;
-  color: white;  
-  padding: 5px 10px;
-  margin: 5px 30px;
-  position: absolute; right:0;
-  outline: inherit;
-  
-    
- }
-
- .search { font-size: inherit;
-  border-radius: 4px;
-  border: #3d3d3d;
-  margin: 10px;
-  padding: 5px;
-  outline: inherit;
-  color:#404040;
-  transition-duration: 0.2s;
-
- }
- .search:hover {
-   background-color: #f1f1f1;
-   border: 1px solid #4c8bf5;
-
- }
-
-ul {
-  list-style-type: none;
-  margin: 15px 100px 0 10px;
-  padding: 0;
-   
-}
-
-li {
-  float: left;
-  
-}
-
-li a {
-  display: inline-block;
-  color:#000;  
-  padding:10px;
-  text-decoration: none;
-  
-}
-
-p {
-  text-decoration: none;
-  margin: 0 25px;
-}
-
-.language {
-  text-decoration: none;
-  margin: 10px;
-  
-}
-
-hr {
-  border-top: 1px solid #d2d2d2;
-  
-  
-}
-
-footer {
-position: fixed;
-bottom: 0;
-left: 0;
-width: 100%;
-background-color:#f2f2f2;;
-color: #000;
-z-index: 4;
-
-
-}
->>>>>>> 4dfd868efbaa281bba98f7ba67ed992e91d90b59
